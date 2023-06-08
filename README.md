@@ -1,4 +1,3 @@
-# Processor-Architecture(Please view in Raw format for better experiance)
-
+# Processor-Architecture
 Project Name : Problem Statement
 Assignment 1 : 
