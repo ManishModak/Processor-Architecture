@@ -20,8 +20,7 @@ count++;
 
 if(count>=1000){ //measure upto 1000 ms i.e. 1 seconds
 Buzzer=~Buzzer; //Toggle buzzer pin
-Deshmukh Vaibhav Ajit
-SI64
+
 
 count=0;
 }
